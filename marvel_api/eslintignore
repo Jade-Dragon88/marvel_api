@@ -1,0 +1,10 @@
+/* название файла */
+public
+node_modules
+build
+.gitignore
+.prettierignore
+.prettierrc.json
+package-lock.json
+package.json
+README.md
